@@ -31,3 +31,5 @@ search_result = qdrant_client.query_points(
 ).points
 
 print(search_result)
+
+#Collection with multiple Vectors:
